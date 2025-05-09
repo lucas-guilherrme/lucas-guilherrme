@@ -21,7 +21,7 @@ Aqui você encontra projetos, ideias e colaborações que estou desenvolvendo.
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guilherrme&layout=compact&theme=radical&hide=html,css,javascript&langs_count=4&custom_title=Linguagens%20Principais%20%28Python,%20C,%20C++,%20MATLAB%29)
 
-[![Nome do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=lucas-guilherrme&repo=nome-do-repositorio&theme=radical)](https://github.com/lucas-guilherrme/nome-do-repositorio)
+[![Virtus-projetos](https://github-readme-stats.vercel.app/api/pin/?username=lucas-guilherrme&repo=nome-do-repositorio&theme=radical)](https://github.com/lucas-guilherrme/nome-do-repositorio)
 
 ---
 
