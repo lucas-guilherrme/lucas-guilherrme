@@ -15,10 +15,11 @@ Aqui você encontra projetos, ideias e colaborações que estou desenvolvendo.
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=lucas-guilherrme&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guilherrme&layout=compact&theme=radical)
+## 📊 Estatísticas do GitHub
+![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=lucas-guilherrme&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guilherrme&layout=compact&theme=radical&hide=html,css,javascript&langs_count=4&custom_title=Linguagens%20Principais%20%28Python,%20C,%20C++,%20MATLAB%29)
 
 ---
 
