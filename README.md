@@ -19,9 +19,9 @@ Aqui você encontra projetos, ideias e colaborações que estou desenvolvendo.
 ## 📊 Estatísticas do GitHub
 ![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=lucas-guilherrme&theme=transparent&card_width=500)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guilherrme&layout=compact&theme=radical&hide=html,css,javascript&langs_count=4&custom_title=Linguagens%20Principais%20%28Python,%20C,%20C++,%20MATLAB%29)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guilherrme&layout=compact&theme=radical&hide=html,css,javascript&langs_count=4&custom_title=Linguagens%20Principais%20%28Python,%20C,%20C++,%20MATLAB%29&theme=transparent)
 
-![Gráfico de Atividade](https://github-readme-activity-graph.cyclic.app/graph?username=lucas-guilherrme&theme=radical)
+![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=lucas-guilherrme&theme=transparent)
 
 ---
 
