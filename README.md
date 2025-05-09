@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Guilherrme!
 
-<!--
-**lucas-guilherrme/lucas-guilherrme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Aqui você encontra projetos, ideias e colaborações que estou desenvolvendo.
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim
+- 🔭 Trabalhando em: **[Seu projeto atual]**
+- 🌱 Aprendendo: **[Tecnologias ou ferramentas que está estudando]**
+- 💬 Pergunte-me sobre: **[Assuntos de interesse]**
+- 📫 Como me encontrar: **[E-mail ou redes sociais]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Tecnologias
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+
+---
+
+✨ _Sinta-se à vontade para explorar meus repositórios e contribuir!_
