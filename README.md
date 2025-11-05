@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Guilherrme, estudmate de Engenharia Elétrica da universidade Federal de Campina GRande - UFCG
+# 👋 Olá, sou estudmate de Engenharia Elétrica da universidade Federal de Campina GRande - UFCG
 
 Bem-vindo ao meu perfil no GitHub! 
 Aqui você encontra projetos, ideias e colaborações que estou desenvolvendo.
