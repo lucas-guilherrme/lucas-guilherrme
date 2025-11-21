@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub!
 Aqui você encontra projetos, ideias e colaborações que estou desenvolvendo.
 
 ## 🌟 Sobre mim
-- 🔭 Atualmente sou estudante: ** **
+- 🔭 Atualmente sou estudante
 - 🌱 Aprendendo: **[Tecnologias ou ferramentas]**
 - 💬 Pergunte-me sobre: **[Assuntos de interesse]**
 - 📫 Como me encontrar: **lucas.guilherme.silva@ee.ufcg.edu.br**
