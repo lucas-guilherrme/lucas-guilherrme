@@ -1,4 +1,4 @@
-# 👋 Olá, sou estudmate de Engenharia Elétrica da universidade Federal de Campina GRande - UFCG
+# 👋 Olá, sou estudmate de Engenharia Elétrica da universidade Federal de Campina Grande - UFCG
 
 Bem-vindo ao meu perfil no GitHub! 
 Aqui você encontra projetos, ideias e colaborações que estou desenvolvendo.
