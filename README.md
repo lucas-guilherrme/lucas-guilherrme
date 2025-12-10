@@ -15,11 +15,6 @@ Aqui você encontra projetos, ideias e colaborações que estou desenvolvendo.
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%230079D6.svg?style=flat&logo=mathworks&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=lucas-guilherrme&theme=transparent&card_width=500)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guilherrme&layout=compact&theme=radical&langs_count=6&custom_title=Linguagens%20mais%20usadas)
-
 ---
 
 ✨ _Sinta-se à vontade para explorar meus repositórios e contribuir!_
