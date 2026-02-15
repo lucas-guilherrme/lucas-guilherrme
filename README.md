@@ -63,15 +63,23 @@
   <img src="https://img.shields.io/badge/LTspice-0054A6?style=flat-square&logo=analog-devices&logoColor=white" />
   <img src="https://img.shields.io/badge/PSIM-FF0000?style=flat-square&logo=powersim&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-E01E22?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Octave-000000?style=flat&logo=octave&logoColor=white" />
 </div>
 
 ### 💻 Programação e Dados
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
+  
+
+
 </div>
 
 ---
@@ -79,6 +87,12 @@
 ## 🎸 Além da Engenharia
 
 * **Estratégia:** Xadrez, Damas e Dominó para exercitar o raciocínio logico.
+
+<div align="left">
+ <img src="https://img.shields.io/badge/Xadrez-000000?style=flat&logo=lichess&logoColor=white" />
+ <img src="https://img.shields.io/badge/Dama-4B2C20?style=flat&logo=target&logoColor=white" />
+ <img src="https://img.shields.io/badge/Dominó-FFFFFF?style=flat&logo=buffer&logoColor=black" />
+<div/>
 
 ---
 
