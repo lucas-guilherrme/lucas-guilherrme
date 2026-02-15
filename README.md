@@ -61,7 +61,7 @@
   <a href="mailto:lucas.guilherme.silva@ee.ufcg.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/lucas-guilherme-da-silva-07b221370">
+  <a href="https://www.linkedin.com/in/lucas-guilherme-da-silva-07b221370?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
